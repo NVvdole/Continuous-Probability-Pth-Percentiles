@@ -1,0 +1,10 @@
+T-Distribution Pth Percentile
+
+df = degrees of freedom
+p = probability
+
+Enter df: 5.0
+Enter p: 0.75
+
+Pth Percentile
+Q(0.75) = 0.7266868437979397
