@@ -1,0 +1,12 @@
+Weibull Distribution Pth Percentile
+
+α = shape parameter
+β = scale parameter
+p = probability
+
+Enter α: 3
+Enter β: 2
+Enter p: 0.75
+
+Pth Percentile
+Q(0.75) = 2.230052810921904
