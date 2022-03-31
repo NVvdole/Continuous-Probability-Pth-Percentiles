@@ -1,0 +1,12 @@
+Logistic Distribution Pth Percentile
+
+μ = location parameter
+σ = scale parameter
+p = probability
+
+Enter μ: 0.0
+Enter σ: 1.0
+Enter p: 0.75
+
+Pth Percentile
+Q(0.75) = 1.0986122886681098
