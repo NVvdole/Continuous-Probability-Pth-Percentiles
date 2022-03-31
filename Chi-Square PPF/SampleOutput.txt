@@ -1,0 +1,10 @@
+Chi-Square Distribution Pth Percentile
+
+df = degrees of freedom
+p = probability
+
+Enter df: 5
+Enter p: 0.75
+
+Pth Percentile
+Q(0.75) = 6.625679763829247
