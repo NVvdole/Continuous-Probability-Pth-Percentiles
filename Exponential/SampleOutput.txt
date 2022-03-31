@@ -1,0 +1,10 @@
+Exponential Distribution Pth Percentile
+
+λ = rate parameter
+p = probability
+
+Enter λ: 0.5
+Enter p: 0.75
+
+Pth Percentile
+Q(0.75) = 2.772588722239781
