@@ -1,0 +1,12 @@
+F-Distribution Pth Percentile
+
+df1 = numerator degrees of freedom
+df2 = denominator degrees of freedom
+p = probability
+
+Enter df1: 5
+Enter df2: 10
+Enter p: 0.75
+
+Pth Percentile
+Q(0.75) = 1.5853232593846152
