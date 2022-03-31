@@ -1,0 +1,12 @@
+Continuous Uniform Distribution Pth Percentile
+
+a = lower bound
+b = upper bound
+p = probability
+
+Enter a: 0.0
+Enter b: 5.0
+Enter p: 0.75
+
+Pth Percentile
+Q(0.75) = 3.75
