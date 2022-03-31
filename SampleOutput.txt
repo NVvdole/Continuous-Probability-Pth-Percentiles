@@ -1,12 +1,10 @@
-Weibull Distribution Pth Percentile
+Chi Distribution Pth Percentile
 
-α = shape parameter
-β = scale parameter
+df = degrees of freedom
 p = probability
 
-Enter α: 3
-Enter β: 2
+Enter df: 5
 Enter p: 0.75
 
 Pth Percentile
-Q(0.75) = 2.230052810921904
+Q(0.75) = 2.5740395808590915
