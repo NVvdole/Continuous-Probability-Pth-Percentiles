@@ -1,0 +1,12 @@
+Gamma Distribution Pth Percentile
+
+α = shape parameter
+λ = rate parameter
+p = probability
+
+Enter α: 3.0
+Enter λ: 0.5
+Enter p: 0.75
+
+Pth Percentile
+Q(0.75) = 7.840804120585122
