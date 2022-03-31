@@ -1,0 +1,12 @@
+Beta Prime Distribution Pth Percentile
+
+α1 = first shape parameter
+α2 = second shape parameter
+p = probability
+
+Enter α1: 5.0
+Enter α2: 5.0
+Enter p: 0.75
+
+Pth Percentile
+Q(0.75) = 1.5512557324243428
